@@ -81,7 +81,7 @@ export const translations: Record<Lang, Translations> = {
       body: "Message us on WhatsApp and we'll put your order together: product, size, and delivery date.",
     },
     footer: {
-      body: "Orders and questions straight through WhatsApp. This site's content is a sample while we get started.",
+      body: "Made to order, one conversation at a time. Message us on WhatsApp and let's plan your next cake.",
       whatsapp: "WhatsApp",
     },
     whatsappMessage: (product) =>
@@ -133,7 +133,7 @@ export const translations: Record<Lang, Translations> = {
       body: "Escríbenos por WhatsApp y armamos tu pedido juntos: producto, tamaño y fecha de entrega.",
     },
     footer: {
-      body: "Pedidos y consultas directo por WhatsApp. Contenido de este sitio es de ejemplo mientras arrancamos.",
+      body: "Hecho a pedido, uno a la vez. Escríbenos por WhatsApp y planeamos tu próxima torta.",
       whatsapp: "WhatsApp",
     },
     whatsappMessage: (product) =>
