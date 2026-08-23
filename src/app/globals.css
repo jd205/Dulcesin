@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 88px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+::selection {
+  background-color: theme("colors.raspberry.200");
+  color: theme("colors.cocoa.900");
+}
+
+:focus-visible {
+  outline: 3px solid theme("colors.raspberry.400");
+  outline-offset: 2px;
+  border-radius: 4px;
+}
