@@ -5,6 +5,11 @@ import { Heart, Sparkle, Truck } from "@phosphor-icons/react";
 import { useLanguage } from "@/context/LanguageContext";
 
 const ICONS = [Heart, Sparkle, Truck];
+const ICON_STYLES = [
+  "bg-raspberry-50 text-raspberry-600",
+  "bg-mango-50 text-mango-600",
+  "bg-pistachio-100 text-pistachio-700",
+];
 
 export default function About() {
   const reduce = useReducedMotion();
@@ -43,7 +48,9 @@ export default function About() {
                 }}
                 className="flex flex-col items-center gap-3 rounded-2xl bg-white p-6 ring-1 ring-cocoa-900/5"
               >
-                <span className="flex h-12 w-12 items-center justify-center rounded-full bg-raspberry-50 text-raspberry-500">
+                <span
+                  className={`flex h-12 w-12 items-center justify-center rounded-full ${ICON_STYLES[i]}`}
+                >
                   <Icon size={24} weight="fill" />
                 </span>
                 <h3 className="font-display text-base font-bold text-cocoa-900">
