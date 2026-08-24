@@ -44,7 +44,7 @@ export const translations: Record<Lang, Translations> = {
       headlineHighlight: "craving",
       headlineAfter: ", one message away.",
       subtext:
-        "Cakes, cupcakes, and desserts made with care at Dulcesin. Pick your favorite and order straight from WhatsApp.",
+        "Cakes, cupcakes, and desserts made with care at Dulce Armonía. Pick your favorite and order straight from WhatsApp.",
     },
     products: {
       heading: "Some of our work",
@@ -59,7 +59,7 @@ export const translations: Record<Lang, Translations> = {
       sweets: "Sweets",
     },
     about: {
-      heading: "Dulcesin is just getting started",
+      heading: "Dulce Armonía is just getting started",
       body: "We're a new bakery project, still putting our final menu together. For now every order is confirmed directly on WhatsApp: availability, price, and delivery time.",
       points: [
         {
@@ -85,7 +85,7 @@ export const translations: Record<Lang, Translations> = {
       whatsapp: "WhatsApp",
     },
     whatsappMessage: (product) =>
-      `Hi Dulcesin! I'd like to order: ${product}. Could you confirm availability and price?`,
+      `Hi Dulce Armonía! I'd like to order: ${product}. Could you confirm availability and price?`,
     placeholderProduct: "(to be defined)",
   },
   es: {
@@ -96,7 +96,7 @@ export const translations: Record<Lang, Translations> = {
       headlineHighlight: "antojo",
       headlineAfter: ", a un mensaje de distancia.",
       subtext:
-        "Tortas, cupcakes y postres hechos con cariño en Dulcesin. Elige tu favorito y pídelo directo por WhatsApp.",
+        "Tortas, cupcakes y postres hechos con cariño en Dulce Armonía. Elige tu favorito y pídelo directo por WhatsApp.",
     },
     products: {
       heading: "Algunos de nuestros trabajos",
@@ -111,7 +111,7 @@ export const translations: Record<Lang, Translations> = {
       sweets: "Dulces",
     },
     about: {
-      heading: "Dulcesin está empezando",
+      heading: "Dulce Armonía está empezando",
       body: "Somos un proyecto nuevo de repostería. Todavía estamos armando nuestro menú definitivo, así que cada pedido por ahora se confirma directo por WhatsApp: disponibilidad, precio y tiempo de entrega.",
       points: [
         {
@@ -137,7 +137,7 @@ export const translations: Record<Lang, Translations> = {
       whatsapp: "WhatsApp",
     },
     whatsappMessage: (product) =>
-      `Hola Dulcesin! Quiero pedir: ${product}. ¿Me confirman disponibilidad y precio?`,
+      `Hola Dulce Armonía! Quiero pedir: ${product}. ¿Me confirman disponibilidad y precio?`,
     placeholderProduct: "(por definir)",
   },
 };

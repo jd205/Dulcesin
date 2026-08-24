@@ -9,7 +9,7 @@ export type Product = {
 };
 
 /**
- * Real photos of Dulcesin's past work, provided by the business.
+ * Real photos of Dulce Armonía's past work, provided by the business.
  * No pricing data exists yet, so cards prompt WhatsApp for a quote
  * instead of showing a fabricated price.
  */

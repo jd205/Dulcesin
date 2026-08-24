@@ -12,11 +12,11 @@ delegated: Next.js (App Router) + TypeScript + Tailwind CSS. Chosen because the 
 
 ## Users
 
-Customers of Dulcesin browsing and ordering custom cakes and homemade party food online. No other audience (e.g. staff/admin) has been confirmed yet.
+Customers of Dulce Armonía browsing and ordering custom cakes and homemade party food online. No other audience (e.g. staff/admin) has been confirmed yet.
 
 ## Product Purpose
 
-An online storefront for Dulcesin, a new custom-cake and home-catering business (celebration cakes plus savory bites like empanadas, croquettes, and pasta salad), that lets customers discover past work and place orders. Success today means a customer can browse a photo gallery of real past work and reach out to place an order via WhatsApp; a self-service checkout with fulfillment-method selection is a possible future iteration.
+An online storefront for Dulce Armonía, a new custom-cake and home-catering business (celebration cakes plus savory bites like empanadas, croquettes, and pasta salad), that lets customers discover past work and place orders. Success today means a customer can browse a photo gallery of real past work and reach out to place an order via WhatsApp; a self-service checkout with fulfillment-method selection is a possible future iteration.
 
 ## Positioning
 
@@ -24,7 +24,7 @@ Not yet defined. The user explicitly deferred this — no signature product, sty
 
 ## Operating Context
 
-Dulcesin is a new/concept business — it is not yet an operating physical shop with an established customer base. Longer-term, the storefront may support three fulfillment paths (in-store pickup, local delivery, nationwide shipping), but the current build implements a simpler first iteration: a product catalog where each item links to a WhatsApp chat to complete the order manually. Fulfillment method, payment, and logistics are worked out per-order in that WhatsApp conversation, not in the site.
+Dulce Armonía is a new/concept business — it is not yet an operating physical shop with an established customer base. Longer-term, the storefront may support three fulfillment paths (in-store pickup, local delivery, nationwide shipping), but the current build implements a simpler first iteration: a product catalog where each item links to a WhatsApp chat to complete the order manually. Fulfillment method, payment, and logistics are worked out per-order in that WhatsApp conversation, not in the site.
 
 Which products support which fulfillment method(s), and how the business currently operates day-to-day, has not been confirmed.
 
@@ -36,7 +36,7 @@ Which products support which fulfillment method(s), and how the business current
 
 ## Brand Commitments
 
-Business name: Dulcesin (corrected from an earlier placeholder, "Dulce2"). No logo, voice guidelines, or other identity assets have been confirmed.
+Business name: Dulce Armonía (renamed from an earlier "Dulcesin", which itself corrected an even earlier placeholder, "Dulce2"). No logo, voice guidelines, or other identity assets have been confirmed.
 
 ## Evidence on Hand
 

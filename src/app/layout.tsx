@@ -16,7 +16,7 @@ const sansFont = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Dulcesin: Bakery",
+  title: "Dulce Armonía: Bakery",
   description:
     "Cakes, cupcakes, and desserts made with care. Pick your craving and order straight from WhatsApp.",
 };
